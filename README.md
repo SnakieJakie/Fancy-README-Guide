@@ -262,7 +262,3 @@ Images also work in tables.
 | ![Steamboat Willie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfEUGz8qNhykCnEccaWGjN2hYGMU2SAUAwh5DmekaPZyZY31pvEF_wxA&s=10)   | November 18, 1928 |
 ```
 
-# Videos
-<p align="center" width="100%">
-<video src="https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Steamboat_Willie_%281928%29_by_Walt_Disney.webm/Steamboat_Willie_%281928%29_by_Walt_Disney.webm.1080p.vp9.webm" width="80%" controls></video>
-</p>
