@@ -1,3 +1,4 @@
+
 # Fancy README Guide
 I tend to forget how to do certain stuff on GitHub READMEs. This will be a guide on how to do fancy READMEs. Feel free to use anything from here for your own READMEs. README. 
 
@@ -223,6 +224,10 @@ Images are probably the most wanted to have in a README. Luckily, they are simpl
 
 The first section will be the text when you hover the image or the image fails to load. Place a ```!``` (exclamation mark) before you text and then wrap it around with ```[]``` (square brackets) , then with ```()``` (parentheses), wrap the link to your image. Note, you need to have the image open separately from a page. If you just link to the page where you image, it will become a text link. You must link to the image itself.
 
+You can also add images in the small attach files box on the bottom of the editor.
+<img width="1023" height="71" alt="examnple2" src="https://github.com/user-attachments/assets/afa6a21c-477d-46d8-8b46-460d51ab2d74" />
+
+
 **Example:**
 ![Steamboat Willie](https://cspd.law.duke.edu/wp-content/uploads/sites/11/2026/04/Steamboat-WIllie-Enters-Public-Domain-1024x748.jpeg)
 
@@ -266,7 +271,22 @@ Images also work in tables.
 **Extreme Example**
 Shows off everything in one table. 
 
-| Image | Game  | Date of release | WAD File  | Developer | Link | 
-| --- | ------------- | - | ------------- | ------------- | ------------- | 
-| ![DOOM](https://doomwiki.org/w/images/4/4b/Doom-1-.gif) | DOOM | December 10, 1993 | ``DOOM.WAD`` | iD Software | [Steam)](https://store.steampowered.com/app/2280/DOOM_DOOM_II/) | 
-| ![DOOM 2: Hell on Earth](https://doomwiki.org/w/images/5/51/Doom2_title.png) | DOOM 2: Hell on Earth | September 30, 1994 | ``DOOM2.WAD`` | ------------- | iD Software | 
+**Table of low-level demons in Classic Doom** 
+| Image | Name **(Bold stands for most popular name)** | Internal Name  | First appearance on Ultra-Violence | Strategy | Trivia |
+| --- | ------------- | - | ------------- | ------------- |  ------------- | 
+| <img width="43" height="54" alt="ZombieMan" src="https://github.com/user-attachments/assets/09d88dc2-e324-45cf-a0e3-efa713245403" /> | **Zombie Man**, Pistol Zombie, Former Humans, Troopers | ``ZombieMan`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom))  | Really anything takes them down. Probably not worth a BFG round. | They base their sprites from the player marine's sprites, which was made from a clay model made by [Adrian Carmack.](https://doomwiki.org/wiki/Adrian_Carmack)|
+| <img width="39" height="54" alt="Shotgunner" src="https://github.com/user-attachments/assets/b384b0b7-4044-44eb-8286-35e0b9452fd4" /> | **Shotgunner**, Sergeant, Shotgun Zombie | ``ShotgunGuy`` |  [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | They also go down pretty easy, but their shotgun can put out a lot of damage, especially if you are close to them.  |  They are unused sprites of them pumps their shotguns after use. In the final game, they just magically have another shell loaded after firing one. |
+| <img width="55" height="55" alt="Imp" src="https://github.com/user-attachments/assets/7dea5416-2990-4bb6-bd69-705450f2deca" /> | **Imp** | ``DoomImp`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | Stronger than the humans, but still easy to kill. They throw a fire ball which can be dodged, unlike the firearms the others use. |  They are one of the few monsters in Doom that was mostly hand-drawn. Their sprites was made with [Deluxe Paint 2.](https://en.wikipedia.org/wiki/Deluxe_Paint) |
+| <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
+
+** Raw Example:**
+`` 
+**Table of low-level demons in Classic Doom** 
+| Image | Name **(Bold stands for most popular name)** | Internal Name  | First appearance on Ultra-Violence | Strategy | Trivia |
+| --- | ------------- | - | ------------- | ------------- |  ------------- | 
+| <img width="43" height="54" alt="ZombieMan" src="https://github.com/user-attachments/assets/09d88dc2-e324-45cf-a0e3-efa713245403" /> | **Zombie Man**, Pistol Zombie, Former Humans, Troopers | ``ZombieMan`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom))  | Really anything takes them down. Probably not worth a BFG round. | They base their sprites from the player marine's sprites, which was made from a clay model made by [Adrian Carmack.](https://doomwiki.org/wiki/Adrian_Carmack)|
+| <img width="39" height="54" alt="Shotgunner" src="https://github.com/user-attachments/assets/b384b0b7-4044-44eb-8286-35e0b9452fd4" /> | **Shotgunner**, Sergeant, Shotgun Zombie | ``ShotgunGuy`` |  [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | They also go down pretty easy, but their shotgun can put out a lot of damage, especially if you are close to them.  |  They are unused sprites of them pumps their shotguns after use. In the final game, they just magically have another shell loaded after firing one. |
+| <img width="55" height="55" alt="Imp" src="https://github.com/user-attachments/assets/7dea5416-2990-4bb6-bd69-705450f2deca" /> | **Imp** | ``DoomImp`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | Stronger than the humans, but still easy to kill. They throw a fire ball which can be dodged, unlike the firearms the others use. |  They are one of the few monsters in Doom that was mostly hand-drawn. Their sprites was made with [Deluxe Paint 2.](https://en.wikipedia.org/wiki/Deluxe_Paint) |
+| <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
+
+``
