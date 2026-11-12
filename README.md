@@ -2,12 +2,15 @@
 # Fancy README Guide
 I tend to forget how to do certain stuff on GitHub READMEs. This will be a guide on how to do fancy READMEs. Feel free to use anything from here for your own READMEs. README. 
 
+This is not meant to be a complete tutorial or history lesson, more so it is meant to be a guide you can quickly grab what you need and use it in your own README.
 
-<!-- Headline Guide. -->
+To start, you need a file in your GitHub repository named "README.md." Anything can be a Markdown (.md) file, but to make a README pop up on the main page of your repo, you need to name as README.md. 
+
 # Headlines! Oh, this is one too!
 Adding headlines is as easy as adding a ```#``` (hashtag) to a piece of text.
 
 <!-- This a markdown comment. It does not render in the README. -->
+
 ```
 # A headline!
 ## Adding 2 makes it a bit smaller than just 1, but a bit bigger than normal text
@@ -15,34 +18,26 @@ Adding headlines is as easy as adding a ```#``` (hashtag) to a piece of text.
 ```
 
 
-
-
-<details>
-<summary>Example</summary>
-
+**Example:**
 # Super badass and epic project
 Blah blah blah......
 ## Features
 Blah blah blah......
-
 ### Credits
 Me
 
-</details>
 
-<details>
-<summary>Code for the example </summary>
+**Raw Example**
 
 ```
 # Super badass and epic project
 Blah blah blah......
 ## Features
 Blah blah blah......
-
 ### Credits
-
+Me
 ```
-</details>
+
 
 
 
@@ -269,7 +264,7 @@ Images also work in tables.
 
 
 **Extreme Example**
-Shows off most of the things talked about in one table. 
+Shows off most of the things we talked about in one table. 
 
 **Table of low-level demons in Classic Doom** 
 | Image | Name **(Bold stands for most popular name)** | Internal Name  | First appearance on Ultra-Violence | Strategy | Trivia |
@@ -289,3 +284,9 @@ Shows off most of the things talked about in one table.
 | <img width="55" height="55" alt="Imp" src="https://github.com/user-attachments/assets/7dea5416-2990-4bb6-bd69-705450f2deca" /> | **Imp** | ``DoomImp`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | Stronger than the humans, but still easy to kill. They throw a fire ball which can be dodged, unlike the firearms the others use. |  They are one of the few monsters in Doom that was mostly hand-drawn. Their sprites was made with [Deluxe Paint 2.](https://en.wikipedia.org/wiki/Deluxe_Paint) |
 | <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
 ```
+# Videos
+It is possible to add videos to a GitHub README by using the Attach files box shown earlier. But it need to less than 10 MBs.
+https://github.com/user-attachments/assets/96ba8f35-5c95-42bd-9428-c60bdf4c88df
+
+
+
