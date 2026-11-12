@@ -280,7 +280,7 @@ Shows off everything in one table.
 | <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
 
 ** Raw Example:**
-`` 
+```
 **Table of low-level demons in Classic Doom** 
 | Image | Name **(Bold stands for most popular name)** | Internal Name  | First appearance on Ultra-Violence | Strategy | Trivia |
 | --- | ------------- | - | ------------- | ------------- |  ------------- | 
@@ -288,5 +288,4 @@ Shows off everything in one table.
 | <img width="39" height="54" alt="Shotgunner" src="https://github.com/user-attachments/assets/b384b0b7-4044-44eb-8286-35e0b9452fd4" /> | **Shotgunner**, Sergeant, Shotgun Zombie | ``ShotgunGuy`` |  [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | They also go down pretty easy, but their shotgun can put out a lot of damage, especially if you are close to them.  |  They are unused sprites of them pumps their shotguns after use. In the final game, they just magically have another shell loaded after firing one. |
 | <img width="55" height="55" alt="Imp" src="https://github.com/user-attachments/assets/7dea5416-2990-4bb6-bd69-705450f2deca" /> | **Imp** | ``DoomImp`` | [E1M1: Hangar](https://doomwiki.org/wiki/E1M1:_Hangar_(Doom)) | Stronger than the humans, but still easy to kill. They throw a fire ball which can be dodged, unlike the firearms the others use. |  They are one of the few monsters in Doom that was mostly hand-drawn. Their sprites was made with [Deluxe Paint 2.](https://en.wikipedia.org/wiki/Deluxe_Paint) |
 | <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
-
-``
+```
