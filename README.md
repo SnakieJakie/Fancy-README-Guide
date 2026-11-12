@@ -286,7 +286,8 @@ Shows off most of the things we talked about in one table.
 ```
 # Videos
 It is possible to add videos to a GitHub README by using the Attach files box shown earlier. But it need to less than 10 MBs.
-https://github.com/user-attachments/assets/96ba8f35-5c95-42bd-9428-c60bdf4c88df
-
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/96ba8f35-5c95-42bd-9428-c60bdf4c88df" width="80%" controls></video>
+</p>
 
 
