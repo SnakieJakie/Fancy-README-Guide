@@ -6,6 +6,12 @@ This is not meant to be a complete tutorial or history lesson, more so it is mea
 
 To start, you need a file in your GitHub repository named "README.md." Anything can be a Markdown (.md) file, but to make a README pop up on the main page of your repo, you need to name as README.md. 
 
+
+# Table of Contents
+ - [Headline](https://github.com/SnakieJakie/Fancy-README-Guide/edit/main/README.md#headlines-oh-this-is-one-too)
+ - [Fun Text Stuf](https://github.com/SnakieJakie/Fancy-README-Guide/edit/main/README.md#text-fun-stuff)
+
+
 # Headlines! Oh, this is one too!
 Adding headlines is as easy as adding a ```#``` (hashtag) to a piece of text.
 
@@ -285,9 +291,32 @@ Shows off most of the things we talked about in one table.
 | <img width="48" height="55" alt="Pinky" src="https://github.com/user-attachments/assets/6919e6bb-0c32-4cff-bd28-1491e5b975bb" /> | **Pinky**, Demon | ``Demon`` | [E1M3: Toxin_Refinery](https://doomwiki.org/wiki/E1M3:_Toxin_Refinery_(Doom)) | The only non-projectile monster in Doom. They are a lot tougher than Imps or the former humans, but can easily be killed with the [Chainsaw](https://doomwiki.org/wiki/Chainsaw).| In the classic Doom games, they were just named "Demon." In Doom 2016, they were renamed to Pinky, likely to not cause confusion. | 
 ```
 # Videos
-It is possible to add videos to a GitHub README by using the Attach files box shown earlier. But it need to less than 10 MBs.
-<p align="center" width="100%">
-<video src="https://github.com/user-attachments/assets/96ba8f35-5c95-42bd-9428-c60bdf4c88df" width="80%" controls></video>
-</p>
+It is possible to add videos to a GitHub README by using the Attach files box shown earlier. But it need to less than 10 MBs. You must leave a space both above and below the video link as shown here.
+<img width="1465" height="161" alt="image" src="https://github.com/user-attachments/assets/4169b4f0-0669-441a-b149-d43c3594af30" />
+
+
+
+https://github.com/user-attachments/assets/78526954-20f1-4105-b3af-c68e5d06fcb6
+
+
+## YouTube Videos
+It is currently not possible to directly embed a YouTube video on a README, but there is a trick you can use instead. 
+
+First, grab the video's thumbnail. [Here is a website that does that for you](https://www.get-youtube-thumbnail.com/). Then, follow this guide.
+
+```[![TEXT IF IMAGE DOES NOT LOAD](THUMBNAIL LINK)](VIDEO LINK)```
+
+
+
+
+**Example:**
+[![UZDoom on the Steam Deck tutorial by Jakie](https://i3.ytimg.com/vi/b67yI3v-n8M/maxresdefault.jpg)](https://www.youtube.com/watch?v=b67yI3v-n8M)
+
+**Raw Example:**
+```
+[![UZDoom on the Steam Deck tutorial by Jakie](https://i3.ytimg.com/vi/b67yI3v-n8M/maxresdefault.jpg)](https://www.youtube.com/watch?v=b67yI3v-n8M)
+
+```
+
 
 
