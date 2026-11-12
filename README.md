@@ -221,7 +221,7 @@ Like formatting, you can have text links in tables.
 # Images
 Images are probably the most wanted to have in a README. Luckily, they are simple to put in. In fact, they are the same as links.
 
-The first section will be the text when you hover the image. Place a ```!``` (exclamation mark) before you text and then wrap it around with ```[]``` (square brackets) , then with ```()``` (parentheses), wrap the link to your image. Note, you need to have the image open separately from a page. If you just link to the page where you image, it will become a text link. You must link to the image itself.
+The first section will be the text when you hover the image or the image fails to load. Place a ```!``` (exclamation mark) before you text and then wrap it around with ```[]``` (square brackets) , then with ```()``` (parentheses), wrap the link to your image. Note, you need to have the image open separately from a page. If you just link to the page where you image, it will become a text link. You must link to the image itself.
 
 **Example:**
 ![Steamboat Willie](https://cspd.law.duke.edu/wp-content/uploads/sites/11/2026/04/Steamboat-WIllie-Enters-Public-Domain-1024x748.jpeg)
@@ -262,3 +262,11 @@ Images also work in tables.
 | ![Steamboat Willie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfEUGz8qNhykCnEccaWGjN2hYGMU2SAUAwh5DmekaPZyZY31pvEF_wxA&s=10)   | November 18, 1928 |
 ```
 
+
+**Extreme Example**
+Shows off everything in one table. 
+
+| Image | Game  | Date of release | WAD File  | Developer | Link | 
+| --- | ------------- | - | ------------- | ------------- | ------------- | 
+| ![DOOM](https://doomwiki.org/w/images/4/4b/Doom-1-.gif) | DOOM | December 10, 1993 | ``DOOM.WAD`` | iD Software | [Steam)](https://store.steampowered.com/app/2280/DOOM_DOOM_II/) | 
+| ![DOOM 2: Hell on Earth](https://doomwiki.org/w/images/5/51/Doom2_title.png) | DOOM 2: Hell on Earth | September 30, 1994 | ``DOOM2.WAD`` | ------------- | iD Software | 
