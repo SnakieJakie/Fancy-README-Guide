@@ -8,8 +8,16 @@ To start, you need a file in your GitHub repository named "README.md." Anything 
 
 
 # Table of Contents
- - [Headline](https://github.com/SnakieJakie/Fancy-README-Guide/edit/main/README.md#headlines-oh-this-is-one-too)
- - [Fun Text Stuf](https://github.com/SnakieJakie/Fancy-README-Guide/edit/main/README.md#text-fun-stuff)
+ 1. [Headline](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#headlines-oh-this-is-one-too)
+ 2. [Text Fun Stuff](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#text-fun-stuff)
+    - [Quotes](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#quotes)
+    - [Code Quotes](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#code-quotes)
+    - [Tables](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#tables)
+    - [List and Check Lists](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#list-and-check-lists)
+    - [Links](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#links)
+ 4. [Images](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#images)
+ 5. [Videos](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#videos)
+    - [Youtube Videos](https://github.com/SnakieJakie/Fancy-README-Guide/tree/main#youtube-videos)
 
 
 # Headlines! Oh, this is one too!
@@ -167,6 +175,33 @@ To do a number list...just add a number next to your text.
 3. Myth
 4. Halo
 
+Number list can have nested lists in them. 
+
+**Example:**
+1. Jakie
+   - MAP01
+   - MAP02
+   - MAP03
+ 2. Also Jakie
+    - MAP04
+    - MAP less than 6 but more than 4
+      - Monsters in the maps
+        - Nothing else.
+
+**Raw Example::**
+```
+1. Jakie
+   - MAP01
+   - MAP02
+   - MAP03
+ 2. Also Jakie
+    - MAP04
+    - MAP less than 6 but more than 4
+      - Monsters in the maps
+        - Nothing else.
+  ```
+ 
+
 For a check list, you need type a - (minus), then trap a poor ```x``` around 2 ```[ ]``` square brackets. For entries that are not fulfilled, you place a space. 
 
 **Example:**
@@ -242,6 +277,7 @@ You can also add images in the small attach files box on the bottom of the edito
 Before you ask, GIFs do work on READMEs too. They just don't show up on previews. If there's just a empty spot, you're good. 
 
 **Example:**
+
 ![Steamboat Willie](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpanU4Y2lzbzA0eGE1ajdoaHVpY3c3a2NucjEzdGJqYTl5bzh0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhL0Gpfbvs4Y07K/giphy.gif)
 
 **Raw Example**
@@ -269,7 +305,8 @@ Images also work in tables.
 ```
 
 
-**Extreme Example**
+# Extreme Example
+
 Shows off most of the things we talked about in one table. 
 
 **Table of low-level demons in Classic Doom** 
